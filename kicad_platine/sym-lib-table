@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "tuerschild-rescue")(type "Legacy")(uri "${KIPRJMOD}/tuerschild-rescue.lib")(options "")(descr ""))
+)
