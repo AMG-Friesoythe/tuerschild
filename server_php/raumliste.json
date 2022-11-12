@@ -1,0 +1,505 @@
+[
+
+	{
+		"R": "114",
+		"z1": "7D",
+		"z2": "Herr Schröder"
+	},
+	{
+		"R": 133,
+		"z1": "Informatik",
+		"z2": ""
+	},
+	{
+		"R": "037",
+		"z1": "10c",
+		"z2": "Herr Wittich"
+	},
+	{
+		"R": "035",
+		"z1": "10a",
+		"z2": "Frau Prinz"
+	},
+	{
+		"R": "038",
+		"z1": "Kunst",
+		"z2": "Raum 3"
+	},
+	{
+		"R": "034",
+		"z1": "11b",
+		"z2": "Frau Eisner"
+	},
+
+	{
+		"R": "033",
+		"z1": "10b",
+		"z2": "Herr Reske"
+	},
+
+	{
+		"R": "032",
+		"z1": "8d",
+		"z2": "Frau Gieseler"
+	},
+
+	{
+		"R": "201",
+		"z1": "Kursraum",
+		"z2": ""
+	},
+
+	{
+		"R": "202",
+		"z1": "Fotolabor",
+		"z2": ""
+	},
+
+
+	{
+		"R": "103",
+		"z1": "Kursraum",
+		"z2": ""
+	},
+
+	{
+		"R": "132",
+		"z1": "Kursraum",
+		"z2": ""
+	},
+
+	{
+		"R": "125",
+		"z1": "Physik",
+		"z2": "Sammlung"
+	},
+
+
+	{
+		"R": "124",
+		"z1": "Physik",
+		"z2": "Übungsraum"
+	},
+
+	{
+		"R": "123",
+		"z1": "Physik",
+		"z2": "Sammlung"
+	},
+
+	{
+		"R": "122",
+		"z1": "Physik",
+		"z2": "Sammlung"
+	},
+
+	{
+		"R": "121",
+		"z1": "Physik",
+		"z2": "Übungsraum"
+	},
+
+	{
+		"R": "112",
+		"z1": "Kursraum",
+		"z2": ""
+	},
+
+	{
+		"R": "111",
+		"z1": "Erdkunde",
+		"z2": "Medienraum"
+	},
+
+	{
+		"R": "012",
+		"z1": "Kursraum",
+		"z2": ""
+	},
+
+	{
+		"R": "013",
+		"z1": "9a",
+		"z2": "Herr Baram"
+	},
+
+	{
+		"R": "014",
+		"z1": "9b",
+		"z2": "Herr Heidtmann"
+	},
+
+	{
+		"R": "015",
+		"z1": "Chemie",
+		"z2": "Übungsraum"
+	},
+
+	{
+		"R": "021",
+		"z1": "Chemie",
+		"z2": "Übungsraum"
+	},
+
+	{
+		"R": "021",
+		"z1": "Chemie",
+		"z2": "Übungsraum"
+	},
+
+	{
+		"R": "020",
+		"z1": "Chemie",
+		"z2": "Sammlung"
+	},
+
+	{
+		"R": "138",
+		"z1": "Kunst",
+		"z2": "Übungsraum"
+	},
+
+	{
+		"R": "143",
+		"z1": "6b",
+		"z2": "Frau Warntjes"
+	},
+
+	{
+		"R": "245",
+		"z1": "5d",
+		"z2": "Herr Hagen"
+	},
+
+	{
+		"R": "244",
+		"z1": "6c",
+		"z2": "Frau Rolfs"
+	},
+
+	{
+		"R": "244",
+		"z1": "5a",
+		"z2": "Frau Osterloh"
+	},
+
+	{
+		"R": "341",
+		"z1": "Olymp",
+		"z2": ""
+	},
+
+	{
+		"R": "241",
+		"z1": "7b",
+		"z2": "Herr Kurmann"
+	},
+
+	{
+		"R": "243",
+		"z1": "5b",
+		"z2": "Frau Schleper"
+	},
+
+	{
+		"R": "144",
+		"z1": "5c",
+		"z2": "Fr. Warntjes"
+	},
+
+
+	{
+		"R": "142",
+		"z1": "6a",
+		"z2": "Frau Kerkering"
+	},
+
+
+	{
+		"R": "041",
+		"z1": "Schulassistent",
+		"z2": "Herr Rutsche"
+	},
+
+	{
+		"R": "045",
+		"z1": "Finanzen/Lehrbuchverwaltung",
+		"z2": "Herr Orth"
+	},
+
+	{
+		"R": "049",
+		"z1": "Lehrerarbeitsraum",
+		"z2": "Personalrat"
+	},
+
+	{
+		"R": "048",
+		"z1": "Krankenzimmer",
+		"z2": ""
+	},
+
+	{
+		"R": "047",
+		"z1": "Beratungslehrer",
+		"z2": "Herr Schröder"
+	},
+
+	{
+		"R": "046",
+		"z1": "Krankenzimmer",
+		"z2": ""
+	},
+
+	{
+		"R": "058",
+		"z1": "Lehrerberatungsraum",
+		"z2": ""
+	},
+
+	{
+		"R": "057",
+		"z1": "Schulleiter",
+		"z2": "Herr Stelter"
+	},
+
+	{
+		"R": "056",
+		"z1": "Büro 1",
+		"z2": "Anmeldung"
+	},
+
+	{
+		"R": "054",
+		"z1": "Koordinator Sek II",
+		"z2": "Herr Hülsmann"
+	},
+
+	{
+		"R": "053",
+		"z1": "Koordinatorin Kl.5+6",
+		"z2": "Frau Dr. Pöpken"
+	},
+
+	{
+		"R": "052",
+		"z1": "Koordinatorin Kl.7-10",
+		"z2": "Frau Hanekamp"
+	},
+
+	{
+		"R": "052",
+		"z1": "Stellv. Schulleiter",
+		"z2": "Herr Stolte"
+	},
+
+	{
+		"R": "044",
+		"z1": "Lehrerzimmer",
+		"z2": ""
+	},
+
+	{
+		"R": "042",
+		"z1": "Bibliothek",
+		"z2": ""
+	},
+
+	{
+		"R": "042",
+		"z1": "Bibliothek",
+		"z2": "Lesesaal"
+	},
+
+	{
+		"R": "238",
+		"z1": "Bühne",
+		"z2": ""
+	},
+
+	{
+		"R": "237",
+		"z1": "Instrumente",
+		"z2": ""
+	},
+
+	{
+		"R": "236",
+		"z1": "8b",
+		"z2": "Frau Brandt"
+	},
+
+	{
+		"R": "235",
+		"z1": "8a",
+		"z2": "Frau Rauert"
+	},
+
+	{
+		"R": "234",
+		"z1": "9c",
+		"z2": "Herr Müer"
+	},
+
+	{
+		"R": "233",
+		"z1": "Biologie",
+		"z2": "Übungsraum"
+	},
+
+	{
+		"R": "224",
+		"z1": "Biologie",
+		"z2": "Übungsraum"
+	},
+
+	{
+		"R": "220",
+		"z1": "Biologie",
+		"z2": "Sammlung"
+	},
+
+	{
+		"R": "224",
+		"z1": "Physik",
+		"z2": "Übungsraum"
+	},
+
+	{
+		"R": "005",
+		"z1": "Kursraum ",
+		"z2": ""
+	},
+
+	{
+		"R": "232",
+		"z1": "",
+		"z2": ""
+	},
+
+	{
+		"R": "004",
+		"z1": "Kursraum",
+		"z2": ""
+	},
+
+	{
+		"R": "002",
+		"z1": "Lernmittelraum",
+		"z2": ""
+	},
+
+	{
+		"R": "003",
+		"z1": "Kursraum",
+		"z2": ""
+	},
+
+	{
+		"R": "006",
+		"z1": "Musik",
+		"z2": "Übungsraum"
+	},
+
+	{
+		"R": "007",
+		"z1": "Abstellraum",
+		"z2": "Noten"
+	},
+
+	{
+		"R": "008",
+		"z1": "Musik",
+		"z2": "Übungsraum"
+	},
+
+	{
+		"R": "009",
+		"z1": "Abstellraum",
+		"z2": "Instrumente"
+	},
+
+	{
+		"R": "105",
+		"z1": "Kursraum",
+		"z2": ""
+	},
+
+	{
+		"R": "115",
+		"z1": "Kursraum",
+		"z2": ""
+	},
+
+	{
+		"R": "113",
+		"z1": "7c",
+		"z2": "Herr Tiedeken"
+	},
+
+	{
+		"R": "011",
+		"z1": "Hausmeister",
+		"z2": "Herr Bent"
+	},
+
+	{
+		"R": "221",
+		"z1": "Biologie",
+		"z2": "Übungsraum"
+	},
+
+	{
+		"R": "134",
+		"z1": "11a",
+		"z2": "Herr Krüger"
+	},
+
+	{
+		"R": "135",
+		"z1": "8c",
+		"z2": "Frau Vaske"
+	},
+
+	{
+		"R": "136",
+		"z1": "8d",
+		"z2": "Herr kl.Schlarmann"
+	},
+
+	{
+		"R": "137",
+		"z1": "9d",
+		"z2": "Herr Lindemann"
+	},
+
+	{
+		"R": "145",
+		"z1": "6d",
+		"z2": "Frau von Uchtrup"
+	},
+
+	{
+		"R": "241",
+		"z1": "7b",
+		"z2": "Herr Kurmann"
+	},
+
+	{
+		"R": "055",
+		"z1": "Büro 2",
+		"z2": ""
+	},
+
+	{
+		"R": "043",
+		"z1": "Kopierer/Medien",
+		"z2": ""
+	},
+	
+	{
+		"R": "064",
+		"z1": "11f",
+		"z2": "Frau Müller"
+	}
+]
