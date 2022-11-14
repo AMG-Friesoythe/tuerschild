@@ -220,7 +220,7 @@ void setup()
   Serial.println(" connected to wifi");
 
  
-  if (loadTimeTable()) {
+  if (!loadTimeTable()) {
     Serial.println("ERROR LOL");
     Serial.println((millis() - t) / 1000.0);
     doSleep(95);
